@@ -1,0 +1,94 @@
+
+      /* Top */
+#top{
+    position: fixed;
+    top: 40px;
+    left: 0;
+    right: 0;
+    /* display: flex; */
+    /* justify-content: space-between; */
+
+
+}
+
+#Logo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 20%;
+    margin-left: 3%;
+    
+}
+#Home{
+    margin: 10px;
+}
+#About{
+    margin: 10px;
+}
+#Service{
+    margin: 10px;
+}
+#Picture{
+    margin: 10px;
+}
+#Biog{
+    margin: 10px;
+}
+
+
+.sign-in{
+    margin-left: 20%;
+    background-color: orange;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 40px;
+    font-size: large;
+}
+
+.log-in{
+    margin-left: 30px;
+    background-color: white;
+    color: orange;
+    height: 30px;
+    width: 140px;
+    border-color: orange;
+    border-radius: 40px;
+    font-size: large;
+}
+
+    /* left */
+
+#left{
+
+    margin-left: 10%;
+    margin-top: 10%;
+}    
+#Primium{
+    font-size: 50px;
+    margin-top: 20%;
+    width: 90%;
+    font-family: sans-serif;
+}
+
+
+
+
+      /* right */
+
+#sections{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+ #img{
+    margin-top: 20%;
+    height: 110%;
+    
+
+ }
+
+ #Get-store{
+margin-left: -1px;
+ }
